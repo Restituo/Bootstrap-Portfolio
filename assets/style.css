@@ -1,0 +1,46 @@
+.headerFont {
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.otherFont {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    font-size: 17px;
+}
+
+hr {
+  width: 100%;
+}
+
+.footer {
+    clear: both;
+    height: 50px;
+    background-color: #666;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    border-top: 15px solid #4aaaa5;
+}
+
+.footerText {
+    color: #fff;
+    font-size: 12px;
+}
+
+/**INDEX**/
+.aboutMeHeader {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #4aaaa5;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+img{
+    max-height: 240px;
+}
